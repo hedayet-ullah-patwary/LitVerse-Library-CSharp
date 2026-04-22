@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|d:\\aiub\\my projects\\librarymanagement\\librarymanagement 3.3\\librarymanagement\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formemployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formemployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formstudentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formstudentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formreturnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formreturnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formborrowhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formborrowhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\librarymanagement\\formemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980FECD6-D8C8-4090-A0A5-FBC86DBF8B95}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\formemployeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\DataAccess.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\DataAccess.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\DataAccess.cs",
+              "RelativeToolTip": "LibraryManagement\\DataAccess.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T13:00:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBookManagement.cs",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormBookManagement.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormBookManagement.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormBookManagement.cs",
+              "RelativeToolTip": "LibraryManagement\\FormBookManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:34:51.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormLogin.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormLogin.cs",
+              "RelativeToolTip": "LibraryManagement\\FormLogin.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:32:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAdminDashboard.cs",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormAdminDashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormAdminDashboard.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormAdminDashboard.cs",
+              "RelativeToolTip": "LibraryManagement\\FormAdminDashboard.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv3MAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T06:33:28.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormIssueBook.cs",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormIssueBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormIssueBook.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormIssueBook.cs",
+              "RelativeToolTip": "LibraryManagement\\FormIssueBook.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwDIBAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:41:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormStudentRecord.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormStudentRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormStudentRecord.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormStudentRecord.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormStudentRecord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:19:22.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormReturnBook.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormReturnBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormReturnBook.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormReturnBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormReturnBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:17:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormLogin.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormLogin.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormLogin.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:17:05.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormIssueBook.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormIssueBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormIssueBook.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormIssueBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormIssueBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:15:28.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEmployeeManagement.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormEmployeeManagement.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormEmployeeManagement.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormEmployeeManagement.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormEmployeeManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:14:48.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBorrowHistory.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormBorrowHistory.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormBorrowHistory.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormBorrowHistory.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormBorrowHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:14:24.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBookManagement.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormBookManagement.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormBookManagement.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormBookManagement.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormBookManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:13:00.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormEmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormEmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormEmployeeDashboard.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormEmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormEmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:07:51.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormAdminDashboard.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\FormAdminDashboard.cs",
+              "ToolTip": "D:\\AIUB\\My projects\\LibraryManagement\\LibraryManagement 3.3\\LibraryManagement\\FormAdminDashboard.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\FormAdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:07:27.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
